@@ -13,6 +13,7 @@ This project is a lightweight, front-end-driven e-commerce solution designed to 
 - Database Integration
 - Order data is stored in Google Sheets via Google Apps Script
 - No external backend required—ideal for fast deployment and low maintenance
+
 📦 How It Works
 - Product Selection
 Users browse available products and click on the item they wish to purchase.
